@@ -1,0 +1,6 @@
+{
+  "name": "Stickman Physics Arena",
+  "description": "A high-performance physics-based stickman fighting game for PC, featuring local multiplayer for up to 6 players, custom keybinds, adjustable AI bots, character customization, multiple maps, and weapons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
